@@ -41,6 +41,8 @@ void chenLopLast(Lop *&F, string tenLop)
     }
     cur->Down = newLop;
 }
+
+// tim dia chi co ten lop =Blop
 Lop *DiaChi(Lop *F, string Blop)
 {
     if (F == NULL)

@@ -54,7 +54,6 @@ void sort(int a[], int n)
 //      => {10, 13, 14, 29, 37}
 
 // vòng lặp i=4 kết thúc chương trình
-
 int main()
 {
     int n;
